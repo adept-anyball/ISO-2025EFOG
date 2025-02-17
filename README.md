@@ -2,3 +2,5 @@
 
 Magnets: 4x2 mm \
 Holes depth: mouse = 2.4 mm, buttons = 2 mm
+
+> TODO: count from the very border, not the chamfer corner.
